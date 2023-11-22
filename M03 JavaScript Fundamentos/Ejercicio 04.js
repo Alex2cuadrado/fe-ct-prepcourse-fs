@@ -46,7 +46,7 @@ function numeroRandom() {
 module.exports = {
    elevarAlCuadrado,
    elevarAlCubo,
-   elevar,
+   elevar,//++
    redondearNumero,
    redondearHaciaArriba,
    numeroRandom,

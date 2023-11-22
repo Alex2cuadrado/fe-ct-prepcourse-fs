@@ -246,7 +246,7 @@ function doWhile(num) {
       contador++;
    } while (contador< 8);
 
-   return num;
+   return num;//++
 }
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/

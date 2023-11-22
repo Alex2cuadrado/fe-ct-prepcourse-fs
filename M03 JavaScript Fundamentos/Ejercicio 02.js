@@ -32,10 +32,10 @@ function divide(x, y) {
 function multiplica(x, y) {
    // Retorna el resultado de su multiplicación.
    // Tu código:
-   return x*y;
+   return x*y;//++
 }
 
-function obtenerResto(x, y) {
+function obtenerResto(x, y) {//22
    // Obten el resto de la división de "x" entre "y".
    // Tu código:
    return x%y;
